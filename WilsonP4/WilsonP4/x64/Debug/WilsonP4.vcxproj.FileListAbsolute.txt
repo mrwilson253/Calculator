@@ -1,0 +1,3 @@
+C:\Users\wilso\OneDrive\Desktop\C++II\selected_files_2020930_154820\c   ii\WilsonP4\WilsonP4\x64\Debug\WilsonP4.vcxprojAssemblyReference.cache
+C:\Users\wilso\OneDrive\Desktop\C++II\selected_files_2020930_154820\c   ii\WilsonP4\WilsonP4\x64\Debug\WilsonP4.MyForm.resources
+C:\Users\wilso\OneDrive\Desktop\C++II\selected_files_2020930_154820\c   ii\WilsonP4\WilsonP4\x64\Debug\WilsonP4.vcxproj.GenerateResource.cache

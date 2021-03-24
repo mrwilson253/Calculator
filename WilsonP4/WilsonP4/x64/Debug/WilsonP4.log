@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\wilso\OneDrive\Desktop\C++II\selected_files_2020930_154820\c   ii\WilsonP4\WilsonP4\MyForm.h(257,12): warning C4101: 'e': unreferenced local variable
+  SimpleCalc.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WilsonP4.vcxproj -> C:\Users\wilso\OneDrive\Desktop\C++II\selected_files_2020930_154820\c   ii\WilsonP4\x64\Debug\WilsonP4.exe

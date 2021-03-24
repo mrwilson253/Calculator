@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WilsonP4", "WilsonP4\WilsonP4.vcxproj", "{788D26E4-0A47-4AE6-9A5D-6130E4074283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Debug|x64.ActiveCfg = Debug|x64
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Debug|x64.Build.0 = Debug|x64
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Debug|x86.ActiveCfg = Debug|Win32
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Debug|x86.Build.0 = Debug|Win32
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Release|x64.ActiveCfg = Release|x64
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Release|x64.Build.0 = Release|x64
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Release|x86.ActiveCfg = Release|Win32
+		{788D26E4-0A47-4AE6-9A5D-6130E4074283}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED737880-7FDB-4B66-87BF-892889C1FE59}
+	EndGlobalSection
+EndGlobal
